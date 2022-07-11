@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-# Hey! 👋 Nice to meet you, I´m Xavier Pocchettino and I´m Backend Java Developer. #
+# Hey! 👋 Nice to meet you, I´m Xavier Pocchettino and I´m Backend Java Developer♨. #
 
 
 
