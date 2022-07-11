@@ -1,5 +1,3 @@
-### Hi there, I´m Xavier Pocchettino 👋
-
 <!--
 **xavipocche/xavipocche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-# Hey! 👋 Nice to see you. #
+# Hey! 👋 Nice to meet you, I´m Xavier Pocchettino and I´m Backend Java Developer. #
 
 
 
