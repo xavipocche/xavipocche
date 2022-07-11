@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 
 
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
-[<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
+[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" target="_blank" alt="java" width="100">](https://docs.oracle.com/en/java/)
+<!-- [<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
+[<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/) -->
 
 
 
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavipocche&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=xavipocche&theme=onestar&no-frame=true&column=3&row=2)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xavipocche&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 
