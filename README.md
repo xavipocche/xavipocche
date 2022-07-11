@@ -1,13 +1,13 @@
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
+# Hey! 👋 Nice to meet you, I'm Xavier Pocchettino and I'm Backend Java Developer♨. #
 
+I'm 21 years old and I'm working as a backend dev since a year, I'm apassionate about tecnology and I love keep learnig new tecnologies and computer languages  
 
-# Hey! 👋 Nice to meet you, I´m Xavier Pocchettino and I´m Backend Java Developer♨. #
-
-- 🔭 I’m currently working at <a href="https://callao.io/">Callao</a>
-- 🌱 I’m currently learning Computer Programming
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+- 🔭 I'm currently working at <a href="https://callao.io/">Callao</a>
+- 🌱 I'm currently learning Computer Programming
+<!-- - 👯 I'm looking to collaborate on ... -->
+<!-- - 🤔 I'm looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
