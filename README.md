@@ -22,7 +22,8 @@ I'm 21 years old and I'm working as a backend dev since a year, I'm apassionate 
 
 ## I work with this tecnologies:
 
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" target="_blank" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="100">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xavipocche&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavipocche&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
