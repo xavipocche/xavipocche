@@ -31,20 +31,15 @@ Here are some ideas to get you started:
 
 
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:xavierpocchettino@gmail.com)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/voko_aleksey)
-[<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="50">](https://t.me/oldcodersclub)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://stackoverflow.com/users/13531449/aleksey-voko)
-[<img src="https://image.winudf.com/v2/image1/cnUuaGFicmFoYWJyX2ljb25fMTU1NTE2NzQwMF8wMTQ/icon.png?w=&fakeurl=1" alt="stackoverflow" width="53">](https://freelance.habr.com/freelancers/Voko_Aleksey)
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xavipocche&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavipocche&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![trophy](https://github-profile-trophy.vercel.app/?username=xavipocche&theme=onestar&no-frame=true&column=3&row=2)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xavipocche&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 
 [<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
