@@ -43,11 +43,9 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
 [<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=repositories&q=&type=&language=&sort=stargazers)
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=followers)
-[<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/xavipocche?&logoColor=red&style=social">](https://github.com/xavipocche?tab=followers)
+[<img alt="GitHub forks" src="https://img.shields.io/github/forks/xavipocche/TranslatorSelenium?logoColor=red&style=social">](https://github.com/xavipocche/TranslatorSelenium/network/members)
 
 ------
 
-[Aleksey-Voko](https://github.com/Aleksey-Voko)
-
-Last Edited on: 16/11/2021
+[Aleksey-Voko](https://github.com/xavipocche)
