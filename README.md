@@ -2,9 +2,9 @@
 
 # Hey! 👋 Nice to meet you, I'm Xavier Pocchettino and I'm Backend Java Developer♨. #
 
-I'm 21 years old and I'm working as a backend dev since a year, I'm apassionate about tecnology and I love keep learnig new tecnologies and computer languages  
+I'm 21 years old, I'm from Mendoza, Argentina and I'm working as a backend dev since a year, I'm apassionate about tecnology and I love keep learnig new tecnologies and computer languages  
 
-- 🔭 I'm currently working at <a href="https://callao.io/">Callao</a>
+- 🔭 I'm currently working at <a href="https://callao.io/" target="_blank">Callao</a>
 - 🌱 I'm currently learning Computer Programming
 <!-- - 👯 I'm looking to collaborate on ... -->
 <!-- - 🤔 I'm looking for help with ... -->
@@ -22,8 +22,15 @@ I'm 21 years old and I'm working as a backend dev since a year, I'm apassionate 
 
 ## I work with this tecnologies:
 
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="100">
+[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="90">](https://docs.oracle.com/en/java/)
+<img src="" alt="" width="90">
+<img src="" alt="" width="90">
+<img src="" alt="" width="90">
+<img src="" alt="" width="90">
+<img src="" alt="" width="90">
+<img src="" alt="" width="90">
+<img src="" alt="" width="90">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="90">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xavipocche&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavipocche&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
