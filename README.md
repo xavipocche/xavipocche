@@ -1,6 +1,6 @@
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
-# Hey! 👋 Nice to meet you, I'm Xavier Pocchettino and I'm Backend Java Developer♨. #
+# Hey! 👋 Nice to meet you, I'm Xavier Pocchettino and I'm Backend Java Developer♨
 
 I'm 21 years old, I'm from Mendoza, Argentina and I'm working as a backend dev since a year, I'm apassionate about tecnology and I love keep learnig new tecnologies and computer languages.  
 
