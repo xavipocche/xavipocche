@@ -2,7 +2,7 @@
 
 # Hey! 👋 Nice to meet you, I'm Xavier Pocchettino and I'm Backend Java Developer♨
 
-I'm 21 years old, I'm from Mendoza, Argentina and I'm working as a backend dev since a year, I'm apassionate about tecnology and I love keep learnig new tecnologies and computer languages.  
+I'm 21 years old, I'm from Mendoza, Argentina and I'm working as a backend dev since a year, I'm apassionate about tecnology and I love keep learning new tecnologies and computer languages.  
 
 - 🔭 I'm currently working at <a href="https://callao.io/" target="_blank">Callao</a>
 - 🌱 I'm currently learning Computer Programming
