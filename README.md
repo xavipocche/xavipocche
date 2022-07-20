@@ -43,9 +43,9 @@ I'm 21 years old, I'm from Mendoza, Argentina and I'm working as a backend dev s
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavipocche&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xavipocche&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xavipocche&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true) <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xavipocche&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 
-<img align="" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width=300 height=200 />
 
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/xavipocche?&logoColor=red&style=social">](https://github.com/xavipocche?tab=followers)
 ------
