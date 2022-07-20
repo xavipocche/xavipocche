@@ -6,11 +6,7 @@ I'm 21 years old, I'm from Mendoza, Argentina and I'm working as a backend dev s
 
 - 🔭 I'm currently working at <a href="https://callao.io/" target="_blank">Callao</a>
 - 🌱 I'm actually learning Computer Programming
-<!-- - 👯 I'm looking to collaborate on ... -->
-<!-- - 🤔 I'm looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+
 - 📫 How to reach me: xavierpocchettino@gmail.com
 - My Linkedin: [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20">](https://www.linkedin.com/in/xavier-pocchettino-529885201/)
 
