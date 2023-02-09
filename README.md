@@ -2,28 +2,27 @@
 
 # Hey! 👋 Nice to meet you, I'm Xavier Pocchettino and I'm Backend Java Developer♨
 
-I'm 21 years old, I'm from Mendoza, Argentina and I'm working as a backend dev since a year, I'm apassionate about tecnology and I love keep learning new tecnologies and progamming languages.  
+I'm 21 years old, I'm from Mendoza, Argentina <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ar.svg" height="22"> and I'm working as a backend dev since a year, I'm apassionate about tecnology and I love keep learning new tecnologies and progamming languages.  
 
-- 🔭 I'm currently working at <a href="https://callao.io/" target="_blank">Callao</a>
+- 🔭 I'm currently working at <a href="https://callao.io/" target="_blank">Callao</a> since January 2022
 - 🌱 I'm actually learning Computer Programming
+- ⚡ I like to keep learning new technologies taking courses and develop projects to gain more experience
+- 💻 If you want, you can take a look at my repositories. There you can find different projects with a little description below
 <!-- - 👯 I'm looking to collaborate on ... -->
 <!-- - 🤔 I'm looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+
 - 📫 How to reach me: xavierpocchettino@gmail.com <br>
 <a href="https://www.linkedin.com/in/xavier-pocchettino-529885201/">
   <img alt="Linkedin Xavier Pocchettino" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-
-
 ## Languages:
 <p>
-    <p> <img alt="ES" src="https://camo.githubusercontent.com/e06699867169d4da7d78ee3e7d61d5264594c13e71c002b629901ed94bdf4d95/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3234302f747769747465722f3235392f666c61672d737061696e5f31663165612d31663166382e706e67" height="22" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-spain_1f1ea-1f1f8.png" style="max-width:100%;"> Native
-    </p>
-    <p> <img src="https://camo.githubusercontent.com/1e71db79954d93a6156efdb3f40269cab34b4a12450a5ca15c0ee3dd4904613e/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3234302f747769747465722f3235392f666c61672d756e697465642d6b696e67646f6d5f31663165632d31663165372e706e67" alt="UK" height="22" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-united-kingdom_1f1ec-1f1e7.png" style="max-width:100%;"> Intermediate
-   </p>
+    <p> <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" height="22"> <strong>Native</strong> </p>
+    <p> <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" height="22"> <strong>Intermediate</strong> </p>
 </p>
 
 ## I work with this tecnologies:
