@@ -25,6 +25,8 @@ I'm 21 years old, I'm from Mendoza, Argentina <img src="https://github.com/lipis
     <p> <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" height="22"> <strong>Intermediate</strong> </p>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xavipocche&label=Profile%20views&color=0e75b6&style=flat" alt="xavipocche" /> </p>
+
 ## I work with this tecnologies:
 
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="90">](https://docs.oracle.com/en/java/)
@@ -43,10 +45,9 @@ I'm 21 years old, I'm from Mendoza, Argentina <img src="https://github.com/lipis
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xavipocche&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
+<img style="display: inline-block;" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width=300 height=200 />
 
-<img align="" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width=300 height=200 />
-
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/xavipocche?&logoColor=red&style=social">](https://github.com/xavipocche?tab=followers)
-------
-
-[xavipocche](https://github.com/xavipocche)
+<div>
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=xavipocche&show_icons=true&locale=en" alt="xavipocche" />
+  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavipocche&show_icons=true&locale=en&layout=compact" alt="xavipocche"/>
+</div>
