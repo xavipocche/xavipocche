@@ -25,7 +25,7 @@ I'm 21 years old, I'm from Mendoza, Argentina <img src="https://github.com/lipis
     <p> <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" height="22"> <strong>Intermediate</strong> </p>
 </p>
 
-## I work with this tecnologies:
+## 💻 I work with this tecnologies:
 
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="90">](https://docs.oracle.com/en/java/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="90">](https://spring.io/)
@@ -40,12 +40,20 @@ I'm 21 years old, I'm from Mendoza, Argentina <img src="https://github.com/lipis
 <img src="" alt="" width="90">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="90">
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) 
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xavipocche&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-<img style="display: inline-block;" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width=300 height=200 />
-
-<div>
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=xavipocche&show_icons=true&locale=en" alt="xavipocche" />
-  <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavipocche&show_icons=true&locale=en&layout=compact" alt="xavipocche"/>
+<div style="display: inline-block";>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavipocche&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=xavipocche&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
+
+<img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width=300 height=200/>
