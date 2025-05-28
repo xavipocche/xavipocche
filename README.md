@@ -34,6 +34,7 @@ I'm 24 years old, I'm from Mendoza, Argentina <img src="https://github.com/lipis
 [<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="90">](https://getbootstrap.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="90">](https://www.atlassian.com/software/jira)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="90">](https://www.atlassian.com/software/bitbucket)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="bitbucket" width="90">](https://www.docker.com/)
 <img src="" alt="" width="90">
 <img src="" alt="" width="90">
 <img src="" alt="" width="90">
