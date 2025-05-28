@@ -24,7 +24,7 @@ I'm 23 years old, I'm from Mendoza, Argentina <img src="https://github.com/lipis
     <p> <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" height="22"> <strong>Intermediate</strong> </p>
 </p>
 
-## 💻 I work with this tecnologies:
+## 💻 I have worked with this tecnologies:
 
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="90">](https://docs.oracle.com/en/java/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="90">](https://spring.io/)
